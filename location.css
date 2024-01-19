@@ -1,7 +1,8 @@
 body{
-    background-color: #063363;
-    text-transform: capitalize;
-    }
+    background-image: linear-gradient(to right, rgba(12, 160, 160, 0.849),rgba(0, 110, 255, 0.603));
+text-transform: capitalize;
+color: #fff;
+}
     .nav h1{
         color:#fff;
         background-color:#0003057c ;
